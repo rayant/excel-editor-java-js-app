@@ -1,13 +1,13 @@
 # Excel java js app
 
-options:
+### options:
 -  uplod *.xls file
 -  save *.xls file to remout db;
 -  view list of uploded files
 -  edit uploded and saved files
 -  delete uploded files from db
 
-Technologes used:
+### Technologes used:
 
 - JAVA: Spring core, Spring MVC, Hibernate, GSON
 - DB: postgresql
