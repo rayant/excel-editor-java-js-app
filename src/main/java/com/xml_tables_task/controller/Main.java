@@ -18,8 +18,6 @@ public class Main {
 
     @RequestMapping(value = {"/","/index"})
        public String main(ModelMap model) {
-//        XlsTable xlsTable = xlsService.listAll().get(0);
-//        model.addAttribute("table",xlsTable);
         return "main";
     }
 }
